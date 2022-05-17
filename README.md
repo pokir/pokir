@@ -14,3 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Languages/tools I use or have used:
+
+- Python
+  - TensorFlow
+  - PyTorch
+  - Matplotlib
+  - NumPy
+  - Pandas
+  - OpenCV
+  - Pygame
+- JavaScript
+  - HTML/CSS
+  - JSON
+  - NodeJS & ReactJS
+  - TensorFlow
+  - React Native
+- C++
+  - VEX
+- C
+  - Arduino
+- Java
+  - Android
+- Misc.
+  - C#
+  - Ruby
+  - x86_64 assembly
+  - sqlite
