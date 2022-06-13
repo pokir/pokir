@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Languages/tools I use or have used:
+Tools I use or have used:
 
 - Python
   - TensorFlow
