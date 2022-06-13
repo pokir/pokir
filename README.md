@@ -28,9 +28,10 @@ Languages/tools I use or have used:
 - JavaScript
   - HTML/CSS
   - JSON
-  - NodeJS & ReactJS
-  - TensorFlow
+  - NodeJS
+  - ReactJS
   - React Native
+  - TensorFlow
 - C++
   - VEX
 - C
@@ -40,5 +41,6 @@ Languages/tools I use or have used:
 - Misc.
   - C#
   - Ruby
-  - x86_64 assembly
-  - sqlite
+  - x86 assembly
+  - SQLite
+  - GraphQL
