@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm currently working on a React Dashboard using GraphQL.
+- I'm currently working on a dashboard using React and GraphQL.
 - I'm currently learning GraphQL and OAuth2.
 
 Tools I use or have used:
