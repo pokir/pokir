@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- I'm currently working on a React Dashboard using GraphQL.
+- I'm currently learning GraphQL and OAuth2.
+
 Tools I use or have used:
 
 - Python
@@ -27,7 +30,7 @@ Tools I use or have used:
   - Pygame
 - JavaScript
   - HTML/CSS
-  - JSON
+    - Bootstrap
   - NodeJS
   - ReactJS
   - React Native
@@ -41,6 +44,9 @@ Tools I use or have used:
 - Misc.
   - C#
   - Ruby
-  - x86 assembly
+  - Assembly (x86)
   - SQLite
   - GraphQL
+    - Ariadne
+    - Apollo Client
+  - OAuth2
