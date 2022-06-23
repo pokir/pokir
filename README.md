@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - I'm currently working on a dashboard using React, GraphQL, and Python.
 - I'm currently learning GraphQL and Cloudflare Workers.
 
-Tools I use or have used:
+Here are some tools I use or have used:
 
 - Python
   - TensorFlow
