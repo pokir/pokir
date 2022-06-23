@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm currently working on a dashboard using React and GraphQL.
+- I'm currently working on a dashboard using React, GraphQL, and Python.
 - I'm currently learning GraphQL and Cloudflare Workers.
 
 Tools I use or have used:
