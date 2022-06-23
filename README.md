@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 Here are some tools I use or have used:
 
-- Machine Learning & Artificial Intelligence
+- 🧠 Machine Learning & Artificial Intelligence
   - [TensorFlow](https://www.tensorflow.org/) (Python)
   - [TensorFlow.js](https://www.tensorflow.org/js)
   - [PyTorch](https://pytorch.org/)
@@ -28,20 +28,13 @@ Here are some tools I use or have used:
   - [Pandas](https://pandas.pydata.org/)
   - [OpenCV](https://docs.opencv.org/master/) (Python)
 
-- Game Development
+- 🎮 Game Development
   - [Pygame](https://www.pygame.org/)
   - [p5.js](https://p5js.org/)
   - [Unity]
   - [Unreal Engine](https://www.unrealengine.com/)
 
-- Robotics
-  - [VEX Robotics](https://www.vexrobotics.com/) (C++)
-
-- Mobile App Development
-  - [Android Studio](https://developer.android.com/studio/) (Java)
-  - [React Native](https://reactnative.dev/)
-
-- Web Development
+- 🌐 Web Development
   - HTML & CSS
   - [React](https://reactjs.org/)
   - [Bootstrap](https://getbootstrap.com/)
@@ -52,12 +45,19 @@ Here are some tools I use or have used:
   - [Flask](https://flask.palletsprojects.com/) (Python)
   - [Express.js](https://expressjs.com/)
 
-- Database
-  - [SQLite](https://www.sqlite.org/) (Python & JavaScript)
+- Mobile App Development
+  - [Android Studio](https://developer.android.com/studio/) (Java)
+  - [React Native](https://reactnative.dev/)
 
 - API
   - REST
   - [GraphQL](https://graphql.org/)
+
+- Database
+  - [SQLite](https://www.sqlite.org/) (Python & JavaScript)
+
+- Robotics
+  - [VEX Robotics](https://www.vexrobotics.com/) (C++)
 
 - Miscellaneous
   - Arduino (C)
