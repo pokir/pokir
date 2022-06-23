@@ -21,42 +21,44 @@ Here are some ideas to get you started:
 Here are some tools I use or have used:
 
 - Machine Learning & Artificial Intelligence
-  - TensorFlow (Python)
-  - TensorFlow.js
-  - PyTorch
-  - NumPy
-  - Pandas
-  - OpenCV (Python)
+  - [TensorFlow](https://www.tensorflow.org/) (Python)
+  - [TensorFlow.js](https://www.tensorflow.org/js)
+  - [PyTorch](https://pytorch.org/)
+  - [NumPy](https://numpy.org/)
+  - [Pandas](https://pandas.pydata.org/)
+  - [OpenCV](https://docs.opencv.org/master/) (Python)
 
 - Game Development
-  - Pygame
-  - p5.js
+  - [Pygame](https://www.pygame.org/)
+  - [p5.js](https://p5js.org/)
+  - [Unity]
+  - [Unreal Engine](https://www.unrealengine.com/)
 
 - Robotics
-  - VEX (C++)
+  - [VEX Robotics](https://www.vexrobotics.com/) (C++)
 
 - Mobile App Development
-  - Android Studio (Java)
-  - React Native
+  - [Android Studio](https://developer.android.com/studio/) (Java)
+  - [React Native](https://reactnative.dev/)
 
 - Web Development
-  - React
-  - HTML & CSS, Bootstrap
-  - OAuth2
+  - HTML & CSS
+  - [React](https://reactjs.org/)
+  - [Bootstrap](https://getbootstrap.com/)
+  - [OAuth2](https://oauth.net/2/)
 
 - Backend
-  - Node.js
-  - Flask (Python)
-  - Express.js
+  - [Node.js](https://nodejs.dev/)
+  - [Flask](https://flask.palletsprojects.com/) (Python)
+  - [Express.js](https://expressjs.com/)
 
 - Database
-  - SQLite (Python & JavaScript)
+  - [SQLite](https://www.sqlite.org/) (Python & JavaScript)
 
 - API
   - REST
-  - GraphQL
+  - [GraphQL](https://graphql.org/)
 
 - Miscellaneous
   - Arduino (C)
-  - Assembly (x86)
-  - Ruby, C#
+  - Some languages I tried out: Ruby, C#, Rust, x86 assembly
