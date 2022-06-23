@@ -20,33 +20,43 @@ Here are some ideas to get you started:
 
 Here are some tools I use or have used:
 
-- Python
-  - TensorFlow
+- Machine Learning & Artificial Intelligence
+  - TensorFlow (Python)
+  - TensorFlow.js
   - PyTorch
-  - Matplotlib
   - NumPy
   - Pandas
-  - OpenCV
+  - OpenCV (Python)
+
+- Game Development
   - Pygame
-- JavaScript
-  - HTML/CSS
-    - Bootstrap
-  - NodeJS
-  - ReactJS
+  - p5.js
+
+- Robotics
+  - VEX (C++)
+
+- Mobile App Development
+  - Android Studio (Java)
   - React Native
-  - TensorFlow
-- C++
-  - VEX
-- C
-  - Arduino
-- Java
-  - Android
-- Misc.
-  - C#
-  - Ruby
-  - Assembly (x86)
-  - SQLite
-  - GraphQL
-    - Ariadne
-    - Apollo Client
+
+- Web Development
+  - React
+  - HTML & CSS, Bootstrap
   - OAuth2
+
+- Backend
+  - Node.js
+  - Flask (Python)
+  - Express.js
+
+- Database
+  - SQLite (Python & JavaScript)
+
+- API
+  - REST
+  - GraphQL
+
+- Miscellaneous
+  - Arduino (C)
+  - Assembly (x86)
+  - Ruby, C#
