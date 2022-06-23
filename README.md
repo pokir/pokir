@@ -40,25 +40,25 @@ Here are some tools I use or have used:
   - [Bootstrap](https://getbootstrap.com/)
   - [OAuth2](https://oauth.net/2/)
 
-- Backend
+- ⚙️ Backend
   - [Node.js](https://nodejs.dev/)
   - [Flask](https://flask.palletsprojects.com/) (Python)
   - [Express.js](https://expressjs.com/)
 
-- Mobile App Development
+- 📱 Mobile App Development
   - [Android Studio](https://developer.android.com/studio/) (Java)
   - [React Native](https://reactnative.dev/)
 
-- API
+- 🗣️ API
   - REST
   - [GraphQL](https://graphql.org/)
 
-- Database
+- 🗄️ Database
   - [SQLite](https://www.sqlite.org/) (Python & JavaScript)
 
-- Robotics
+- 🤖 Robotics
   - [VEX Robotics](https://www.vexrobotics.com/) (C++)
 
-- Miscellaneous
+- 🧰 Miscellaneous
   - Arduino (C)
   - Some languages I tried out: Ruby, C#, Rust, x86 assembly
