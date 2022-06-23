@@ -60,5 +60,5 @@ Here are some tools I use or have used:
   - [VEX Robotics](https://www.vexrobotics.com/) (C++)
 
 - 🧰 Miscellaneous
-  - Arduino (C)
+  - [Arduino](https://www.arduino.cc/) (C)
   - Some languages I tried out: Ruby, C#, Rust, x86 assembly
