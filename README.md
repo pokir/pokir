@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - I'm currently working on a dashboard using React, GraphQL, and Python.
-- I'm currently learning GraphQL, Nginx, and Rust.
+- I'm currently learning GraphQL, Nginx, Docker, and Rust.
 
 Here are some tools I use or have used:
 
