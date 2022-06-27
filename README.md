@@ -62,3 +62,9 @@ Here are some tools I use or have used:
 - 🧰 Miscellaneous
   - [Arduino](https://www.arduino.cc/) (C)
   - Some languages I tried out: Ruby, C#, Rust, x86 assembly
+
+Tools I am planning to learn:
+  - Rust
+  - Web Assembly
+  - Docker
+  - Kubernetes
