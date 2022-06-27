@@ -69,3 +69,4 @@ Tools I am planning to learn:
   - Web Assembly
   - Docker
   - Kubernetes
+  - OpenSSL
