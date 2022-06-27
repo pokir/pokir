@@ -64,6 +64,7 @@ Here are some tools I use or have used:
   - Some languages I tried out: Ruby, C#, Rust, x86 assembly
 
 Tools I am planning to learn:
+
   - Rust
   - Web Assembly
   - Docker
