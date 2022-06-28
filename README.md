@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - I'm currently working on a dashboard using React, GraphQL, and Python.
-- I'm currently learning GraphQL, Nginx, Docker, and Rust.
+- I'm currently learning GraphQL, Docker, SSL, and Rust.
 
 Here are some tools I use or have used:
 
@@ -44,6 +44,7 @@ Here are some tools I use or have used:
   - [Node.js](https://nodejs.dev/)
   - [Flask](https://flask.palletsprojects.com/) (Python)
   - [Express.js](https://expressjs.com/)
+  - [Docker](https://www.docker.com/)
 
 - 📱 Mobile App Development
   - [Android Studio](https://developer.android.com/studio/) (Java)
@@ -67,6 +68,5 @@ Tools I am planning to learn:
 
   - Rust
   - Web Assembly
-  - Docker
   - Kubernetes
   - OpenSSL
