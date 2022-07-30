@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- I'm working on a dashboard app!
 - I'm currently learning Rust and MongoDB.
 
 Here are some tools I use or have used:
