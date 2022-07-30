@@ -70,3 +70,4 @@ Tools I am planning to learn:
   - Kubernetes
   - MongoDB
   - Go
+  - Redux
