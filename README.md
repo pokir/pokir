@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - I'm working on a dashboard app!
-- I'm currently learning Rust and MongoDB.
+- I'm currently learning Rust and Go.
 
 Here are some tools I use or have used:
 
