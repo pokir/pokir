@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 #### Here are some tools I use or have used:
 
-- 🧠 Machine Learning & Artificial Intelligence
+###### - 🧠 Machine Learning & Artificial Intelligence
   - [TensorFlow](https://www.tensorflow.org/) (Python)
   - [TensorFlow.js](https://www.tensorflow.org/js)
   - [PyTorch](https://pytorch.org/)
@@ -28,39 +28,39 @@ Here are some ideas to get you started:
   - [Pandas](https://pandas.pydata.org/)
   - [OpenCV](https://docs.opencv.org/master/) (Python)
 
-- 🎮 Game Development
+###### - 🎮 Game Development
   - [Pygame](https://www.pygame.org/)
   - [p5.js](https://p5js.org/)
   - [Unity](https://unity.com/)
   - [Unreal Engine](https://www.unrealengine.com/)
 
-- 🌐 Web Development
+###### - 🌐 Web Development
   - HTML & CSS
   - [React](https://reactjs.org/)
   - [Bootstrap](https://getbootstrap.com/)
   - [OAuth2](https://oauth.net/2/)
 
-- ⚙️ Backend
+###### - ⚙️ Backend
   - [Node.js](https://nodejs.dev/)
   - [Flask](https://flask.palletsprojects.com/) (Python)
   - [Express.js](https://expressjs.com/)
   - [Docker](https://www.docker.com/)
 
-- 📱 Mobile App Development
+###### - 📱 Mobile App Development
   - [Android Studio](https://developer.android.com/studio/) (Java)
   - [React Native](https://reactnative.dev/)
 
-- 🗣️ API
+###### - 🗣️ API
   - REST
   - [GraphQL](https://graphql.org/)
 
-- 🗄️ Database
+###### - 🗄️ Database
   - [SQLite](https://www.sqlite.org/) (Python & JavaScript)
 
-- 🤖 Robotics
+###### - 🤖 Robotics
   - [VEX Robotics](https://www.vexrobotics.com/) (C++)
 
-- 🧰 Miscellaneous
+###### - 🧰 Miscellaneous
   - [Arduino](https://www.arduino.cc/) (C)
   - Some languages I tried out: Ruby, C#, Rust, x86 assembly
 
