@@ -66,8 +66,8 @@ Here are some ideas to get you started:
 
 #### Tools I am planning to learn:
 
-- Web Assembly
-- Kubernetes
-- MongoDB
-- Go
-- Redux
+###### - Web Assembly
+###### - Kubernetes
+###### - MongoDB
+###### - Go
+###### - Redux
