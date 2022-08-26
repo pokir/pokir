@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - I'm working on a dashboard app!
 - I'm currently learning Rust and Go.
 
-Here are some tools I use or have used:
+#### Here are some tools I use or have used:
 
 - 🧠 Machine Learning & Artificial Intelligence
   - [TensorFlow](https://www.tensorflow.org/) (Python)
@@ -64,9 +64,10 @@ Here are some tools I use or have used:
   - [Arduino](https://www.arduino.cc/) (C)
   - Some languages I tried out: Ruby, C#, Rust, x86 assembly
 
-Tools I am planning to learn:
-  - Web Assembly
-  - Kubernetes
-  - MongoDB
-  - Go
-  - Redux
+#### Tools I am planning to learn:
+
+- Web Assembly
+- Kubernetes
+- MongoDB
+- Go
+- Redux
