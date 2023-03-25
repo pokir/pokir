@@ -44,6 +44,7 @@ Here are some ideas to get you started:
   - [Flask](https://flask.palletsprojects.com/) (Python)
   - [Express.js](https://expressjs.com/)
   - [Docker](https://www.docker.com/)
+  - [Firebase](https://firebase.google.com/) (JavaScript)
 
 ###### - 📱 Mobile App Development
   - [Android Studio](https://developer.android.com/studio/) (Java)
@@ -55,7 +56,6 @@ Here are some ideas to get you started:
 
 ###### - 🗄️ Database
   - [SQLite](https://www.sqlite.org/) (Python & JavaScript)
-  - [Firebase](https://firebase.google.com/) (JavaScript)
 
 ###### - 🤖 Robotics
   - [VEX Robotics](https://www.vexrobotics.com/) (C++)
