@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm working on a dashboard app!
-- I'm currently learning Rust and Go.
+- I'm working on a mobile app!
 
 #### Here are some tools I use or have used:
 
@@ -56,6 +55,7 @@ Here are some ideas to get you started:
 
 ###### - 🗄️ Database
   - [SQLite](https://www.sqlite.org/) (Python & JavaScript)
+  - [Firebase](https://firebase.google.com/) (JavaScript)
 
 ###### - 🤖 Robotics
   - [VEX Robotics](https://www.vexrobotics.com/) (C++)
