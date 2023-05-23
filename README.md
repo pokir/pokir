@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm working on a mobile app!
+<!-- - I'm working on a mobile app! -->
 
 #### Here are some tools I use or have used:
 
