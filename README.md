@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 <!-- - I'm working on a mobile app! -->
 
+<!--
 #### Here are some tools I use or have used:
 
 ###### - 🧠 Machine Learning & Artificial Intelligence
@@ -72,3 +73,4 @@ Here are some ideas to get you started:
 - Go
 - Redux
 - Haskell
+-->
