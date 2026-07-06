@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- - I'm working on a mobile app! -->
-
-<!--
 #### Here are some tools I use or have used:
 
 ###### - 🧠 Machine Learning & Artificial Intelligence
@@ -60,17 +57,15 @@ Here are some ideas to get you started:
 
 ###### - 🤖 Robotics
   - [VEX Robotics](https://www.vexrobotics.com/) (C++)
+  - [Arduino](https://www.arduino.cc/) (C)
 
 ###### - 🧰 Miscellaneous
-  - [Arduino](https://www.arduino.cc/) (C)
   - Some languages I tried out: Ruby, C#, Rust, x86 assembly
 
-#### Tools I am planning to learn:
+#### Things I am planning to learn
 
 - Web Assembly
 - Kubernetes
-- MongoDB
 - Go
 - Redux
 - Haskell
--->
