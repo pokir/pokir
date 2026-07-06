@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Here are some tools I use or have used:
+<!--
+#### Here are some tools I use or have used
 
 ###### - 🧠 Machine Learning & Artificial Intelligence
   - [TensorFlow](https://www.tensorflow.org/) (Python)
@@ -69,3 +70,4 @@ Here are some ideas to get you started:
 - Go
 - Redux
 - Haskell
+-->
